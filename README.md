@@ -1,18 +1,6 @@
 # Hey there👋, Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+I'm+Gerard+Doncel;Junior+developer..."/>
- 
- <p>- <i></i></p>
-
-## ⚡🙋‍♂️ About Me
-
-</br>
-
-- 🔧 I’m currently working on ...3iPunt S.L.
-- 📖 I’m currently learning ...Bootstrap.
-- 📫 How to reach me ...gerarddoncel41@gmail.com.
-
-<hr>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+I'm+Gerard+Doncel;Junior+Developer..."/>
 
 <!--
 **umigam3/umigam3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
