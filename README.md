@@ -41,7 +41,7 @@
 - Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,express,react,astro,bootstrap,unity,wordpress" />
+    <img src="https://skillicons.dev/icons?i=react,astro,bootstrap,unity,wordpress,django,express" />
   </a>
 </p>
 
