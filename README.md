@@ -9,7 +9,6 @@
 &nbsp;
 
 <img align="right" alt="Coding" width="400" src="./assets/undraw_programming_re_kg9v.svg">
-<br><br>
 
 - 🔭 I’m currently working on **3&Punt**
 
