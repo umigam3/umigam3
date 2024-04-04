@@ -6,8 +6,9 @@
 <img src="https://img.shields.io/badge/Languages-PHP | JavaScript | HTML5 | CSS3 | C++ -green.svg" alt="supun nanayakkara's languages" />
 <img alt="Profile followers" src="https://img.shields.io/github/followers/umigam3">
 </p>
+&nbsp;
 
-<img style="margin-top: 50px" align="right" alt="Coding" width="400" src="./assets/undraw_programming_re_kg9v.svg">
+<img align="right" alt="Coding" width="400" src="./assets/undraw_programming_re_kg9v.svg">
 <br><br>
 
 - 🔭 I’m currently working on **3&Punt**
