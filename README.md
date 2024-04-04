@@ -7,7 +7,7 @@
 <img alt="Profile followers" src="https://img.shields.io/github/followers/umigam3">
 </p>
 
-<img style="margin-top: 50px" align="right" alt="Coding" width="300" src="./image.svg">
+<img style="margin-top: 50px" align="right" alt="Coding" width="400" src="./assets/undraw_programming_re_kg9v.svg">
 <br><br>
 
 - 🔭 I’m currently working on **3&Punt**
