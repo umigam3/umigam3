@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gerard Doncel</h1>
-<p align="center">I'm totally hooked on how computer tech has totally changed our lives in ways we never saw coming. Seeing how much computer science has blown up got me thinking about diving into software engineering early on, and my excitement for it has only gotten bigger since then. Plus, I'm all about exploring new tech stacks and using them to build some cool stuff! 🚀💻</p>
+<p align="center">Computer Engineer with more than 2 years of experience using PHP. Worked mainly with HTML, CSS, JavaScript and SQL. Additionally, I have gained proficiency in Angular and TypeScript. My interest in technology started at the age of 15 when I got a Raspberry Pi and began experimenting with different projects. This experience led me to develop an interest in computer science ever since. 🚀💻</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=umigam3&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 <img src="https://img.shields.io/badge/Languages-PHP | JavaScript | HTML5 | CSS3 | C++ -green.svg" alt="supun nanayakkara's languages" />
