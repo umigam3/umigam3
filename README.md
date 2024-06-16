@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **gerarddoncel41@gmail.com**
 
-- 🌐 Ckeckout [my personal portfolio](https://gerarddoncel.com)
+- 🌐 Ckeckout [my personal portfolio](https://gerarddoncel.com](https://gerarddoncel.netlify.app))
 
 <br>
 <h3 align="left">Connect with me:</h3>
