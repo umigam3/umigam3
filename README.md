@@ -34,14 +34,14 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,c,cpp,cs,html,css,js,jquery,ts,python,java,bash,nodejs" />
+    <img src="https://skillicons.dev/icons?i=php,cpp,html,css,js,jquery,ts,bash" />
   </a>
 </p>
 
 - Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,astro,bootstrap,unity,wordpress,django,express" />
+    <img src="https://skillicons.dev/icons?i=react,astro,bootstrap,tailwind,unity" />
   </a>
 </p>
 
