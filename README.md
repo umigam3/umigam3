@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **3&Punt**
 
-- 🌱 I’m currently learning **React.js & Astro**
+- 🌱 I’m currently learning **Laravel & Symfony**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/umigam3?tab=repositories)
 
