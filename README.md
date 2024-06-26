@@ -8,7 +8,7 @@
 </p>
 &nbsp;
 
-<img align="right" alt="Coding" width="400" src="./assets/undraw_programming_re_kg9v.svg">
+<img align="right" alt="Coding" width="400" src="./assets/developer_activity.svg">
 
 - 🔭 I’m currently working on **3&Punt**
 
@@ -62,3 +62,5 @@
 <br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+![snake animation](https://github.com/<seu umigam3>/<seu umigam3>/blob/output/github-contribution-grid-snake2.svg)
