@@ -8,7 +8,7 @@
 </p>
 &nbsp;
 
-<img align="right" alt="Coding" width="400" src="./assets/undraw_programming_re_kg9v.svg">
+<img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umigam3&layout=donut&theme=dracula&hide_border=true&hide_title=true&border_radius=10&include_all_commits=true)](https://github.com/umigam3">
 
 - 🔭 I’m currently working on **3&Punt**
 
