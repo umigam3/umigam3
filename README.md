@@ -22,6 +22,7 @@
 
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/gerard-doncel-gutierrez/)
 
+<br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
