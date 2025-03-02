@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umigam3&layout=donut&theme=dracula&hide_border=true&hide_title=true&border_radius=10&include_all_commits=true)](https://github.com/umigam3">
 
-- 🔭 I’m currently working on [**eAgora**]([https://github.com/umigam3?tab=repositories](https://www.linkedin.com/company/eagora/))
+- 🔭 I’m currently working as a **Software Developer**
 
 - 🌱 I’m currently learning **Laravel** & **Livewire**
 
