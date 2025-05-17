@@ -37,7 +37,7 @@
 - Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,next,react,astro,tailwind,bootstrap,unity" />
+    <img src="https://skillicons.dev/icons?i=laravel,alpinejs,next,react,astro,tailwind,bootstrap,unity" />
   </a>
 </p>
 
