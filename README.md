@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working as a **Software Developer**
 
-- 🌱 I’m currently learning **Laravel** & **Livewire**
+- 🌱 I’m currently learning **Next.JS**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/umigam3?tab=repositories)
 
